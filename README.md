@@ -11,6 +11,11 @@
 
 - ⚡ Fun fact **I think I'm a pretty okay rock climber**
 
+<h3 align="left">Achievements:</h3>
+<img src="https://practicum-content.s3.us-west-1.amazonaws.com/resources/HTML_CSS_Developer_1674816225.png" alt="html-css developer" width= "60%" />
+<img src="https://practicum-content.s3.us-west-1.amazonaws.com/resources/React_Engineer_1674817176.png" alt="react developer" width="60%" />
+<img src="https://practicum-content.s3.amazonaws.com/resources/Full-Stack_Software_Engineer_1690352123.png" alt="full stack developer" width="60%" />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/chris-yee-8292b9265/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chris-yee-8292b9265/" height="30" width="40" /></a>
