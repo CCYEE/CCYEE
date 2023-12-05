@@ -1,8 +1,10 @@
-<h1 align="center">Hi 👋, I'm Chris Yee</h1>
-<h3 align="center">I am a Software Engineer with a background in Registered Nursing with a passion for compassion, now aspiring to channel that same empathy into the dynamic realm of software engineering. With a solid nursing foundation, I bring a unique blend of empathy and problem-solving skills to the world of software engineering. Driven by a passion for innovation, I have embraced coding, mastering new languages and frameworks.
-I am enthusiastic about connecting with professionals who share my passion in both healthcare and tech. Together, let's explore opportunities and collaboratively make a significant impact.</h3>
+<h1 align="center">Hello there 👋, I'm Chris Yee</h1>
+<h3 align="center">Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ccyee&label=Profile%20views&color=0e75b6&style=flat" alt="ccyee" /> </p>
+
+I am a Software Engineer with a background in Registered Nursing with a passion for compassion, now aspiring to channel that same empathy into the dynamic realm of software engineering. With a solid nursing foundation, I bring a unique blend of empathy and problem-solving skills to the world of software engineering. Driven by a passion for innovation, I have embraced coding, mastering new languages and frameworks.
+I am enthusiastic about connecting with professionals who share my passion in both healthcare and tech. Together, let's explore opportunities and collaboratively make a significant impact.
 
 - 🔭 I’m currently working on **expanding my knowledge**
 
