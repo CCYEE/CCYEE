@@ -12,7 +12,7 @@ I am enthusiastic about connecting with professionals who share my passion in bo
 
 - 📫 How to reach me **ccyee4@gmail.com**
 
-- ⚡ Fun fact **I think I'm a pretty okay rock climber**
+- ⚡ Fun fact: **I think I'm a pretty okay rock climber**
 
 <h3 align="left">Achievements:</h3>
 <img src="https://practicum-content.s3.us-west-1.amazonaws.com/resources/HTML_CSS_Developer_1674816225.png" alt="html-css developer" width= "60%" />
